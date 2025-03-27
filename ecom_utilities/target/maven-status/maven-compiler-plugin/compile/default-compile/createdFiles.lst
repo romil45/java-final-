@@ -1,0 +1,5 @@
+com\ecom\ecom_utilities\entity\LoginData.class
+com\ecom\ecom_utilities\controller\ecomController.class
+com\ecom\ecom_utilities\App.class
+com\ecom\ecom_utilities\entity\Item.class
+com\ecom\ecom_utilities\entity\RegistrationData.class
